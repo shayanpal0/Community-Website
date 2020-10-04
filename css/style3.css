@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    border: 0px; 
+    box-sizing: border-box; 
+    
+}
+header{
+    padding-bottom: 0%;
+    background-color: rgb(24, 240, 240);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#all{
+	background-color: rgb(24, 240, 240);
+	/*margin-top: 20px; */
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#Qpapers {
+	color: #000;
+	height: 100%;
+}
+
+#Qpapers a{
+	color: #000;
+	text-decoration: none;
+	line-height: 3.5em;
+}
+
+#Apapers {
+	background-color: #000;
+	color: #fff;
+	height: 50%;
+	line-height: 3.5em;
+}
+
+#Apapers a{
+	color: #fff;
+	text-decoration: none;
+	
+}
+
+footer p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6%;
+    color: #fff;
+    background-color: black;
+}
